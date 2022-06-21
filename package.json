@@ -1,15 +1,15 @@
 {
-    "name": "sandbox-lint-action",
-    "version": "1.0.0",
-    "main": "index.js",
-    "license": "MIT",
-    "scripts": {
-        "lint:eslint": "eslint --fix-dry-run .",
-        "lint:prettier": "prettier --check ."
-    },
-    "devDependencies": {
-        "eslint": "^8.18.0",
-        "eslint-config-prettier": "^8.5.0",
-        "prettier": "2.7.1"
-    }
+  "name": "sandbox-lint-action",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "lint:eslint": "eslint --fix-dry-run .",
+    "lint:prettier": "prettier --check ."
+  },
+  "devDependencies": {
+    "eslint": "^8.18.0",
+    "eslint-config-prettier": "^8.5.0",
+    "prettier": "2.7.1"
+  }
 }
