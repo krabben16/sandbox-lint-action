@@ -4,8 +4,8 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "eslint": "eslint --fix-dry-run .",
-    "prettier": "prettier --check ."
+    "lint:eslint": "eslint --fix-dry-run .",
+    "lint:prettier": "prettier --check ."
   },
   "devDependencies": {
     "eslint": "^8.18.0",
