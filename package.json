@@ -1,0 +1,10 @@
+{
+  "name": "sandbox-lint-action",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^8.18.0",
+    "prettier": "2.7.1"
+  }
+}
