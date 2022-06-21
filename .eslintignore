@@ -1,0 +1,5 @@
+# https://eslint.org/docs/user-guide/configuring/ignoring-code
+# .eslintignoreファイルにあるパターンに加えて、ESLintは --no-ignore フラグが渡された場合でも、常にいくつかの暗黙の無視規則に従います。
+# 暗黙のルールは以下の通りです。
+# - node_modules/ は無視されます。
+# - ドットファイル（.eslintrc.*を除く）、ドットフォルダとそのコンテンツは無視されます。
